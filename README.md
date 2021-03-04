@@ -20,6 +20,11 @@ and then copy your bot token to config.json
     - Send Messages
     - View Channels
 
+5. Create database with 
+```bash
+node setup-db.js
+```
+
 ## Playing game
 
 Roll the dice with 
